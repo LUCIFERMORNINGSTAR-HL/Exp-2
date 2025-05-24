@@ -33,7 +33,7 @@ COMMUNICATION DIAGRAM :
 ![CommunicationDiagram1](https://github.com/user-attachments/assets/74066db4-307f-4962-b881-70e14a9756d2)
 
 SEQUENCE DIAGRAM : 
-![image](https://github.com/user-attachments/assets/1c94612b-0917-441a-a9df-c2d67c56d575)
+![SequenceDiagram1](https://github.com/user-attachments/assets/e497eccc-5b68-40c9-9418-47fefbce8365)
 
 # RESULT:
 To draw tha given library managment system verified.
